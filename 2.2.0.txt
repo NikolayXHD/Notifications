@@ -1,0 +1,8 @@
+2.2.0
+-----
+
+Minor changes in picture rendering.
+
+Revised mapping XLHQ directories to Mtgjson.com set codes. Sets MMA, RQS, ITP, NMS, CST, CON, MD1 
+have different codes in XLHQ Mega arhive. Mtgdb.Gui images were updated correspondingly. You can 
+download updated small and zoom images from Update window.
