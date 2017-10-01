@@ -1,5 +1,5 @@
 Uploading SMALL images in progress
 ----------------------------------
 
-Downloading small images is not recommended for the next 2 hours until 18:30 UTC as you will get 
+Downloading small images is not recommended for the next 2 hours until 2017-10-01 18:30 UTC as you will get 
 a mix of new and outdated versions.
