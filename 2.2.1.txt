@@ -1,0 +1,4 @@
+2.2.1
+-----
+
+Fixed bug in Update window preventing downloading Artworks
