@@ -1,0 +1,15 @@
+2.2.6
+-----
+
+Compatibility with MTGO (Magic The Gathering Online)
+You can save and load decks and collection in plain-text format created by MTGO.
+For details see Mtgdb.Gui help or [online wiki](https://github.com/NikolayXHD/Mtgdb/wiki/02.-Import-collection-&-decks-from-Magic-The-Gathering-Online).
+
+As you can now import collection from file, as well as save it, you can in fact switch between 
+several collections e.g. your physical collection and MTGO collection. You can also easily 
+manipulate your collection outside Mtgd.Gui because `*.txt` collection format is very simple.
+
+Filter button uncheck behaviour was slighlty changed filter to avoid accidentally creating a filter 
+that excludes all cards by prohibiting all values of a certain property. Previosly I abandoned this 
+approach as it did not work well with filtering by Mana Cost. Now I think I got the right way to do 
+it.
