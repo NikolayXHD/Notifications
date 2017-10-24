@@ -1,7 +1,0 @@
-2.2.5
------
-
-Replaced plain-text help with locally stored help website which you can explore in your 
-web-browser. Help website is generated from `.txt` files using Markdown syntax.
-
-In case you need them you can find `.txt` help files in `\help` directory.

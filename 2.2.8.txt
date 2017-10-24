@@ -1,4 +1,0 @@
-2.2.8
------
-
-MTGO *.txt deck format supports decks downloaded from magic.wizards.com
