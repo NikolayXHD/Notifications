@@ -1,0 +1,8 @@
+2.3.4
+-----
+
+Updated Ixalan and Commander 2017 images. Poor images from gatherer.wizards.com
+were replaced from XLHQ Mega directory.
+
+Fixed a crash on updating images. I higly recommend updating to 2.3.4 prior to
+downloading new images.
