@@ -1,0 +1,18 @@
+2.3.6
+-----
+
+Random hand and mulligan simulation
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+``Sample hand`` tab was added to the right of ``Sideboard`` zone selector.
+
+Prohibit mode in Filter manager
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+For instance if Filter Buttons are set in prohibited mode in Filter Manager the search result will
+show only cards that do *not* match filter buttons.
+
+Fixed replacing *aftermath* card images in Forge
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+In Forge these card images have ``»`` separating names.
