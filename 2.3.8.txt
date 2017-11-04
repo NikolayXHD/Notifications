@@ -19,7 +19,7 @@ Special meaning of wildcards ``?`` and ``*`` in range query even when it's not n
 
     releasedate: [2017\-01\-01 TO *]
 
-is interpreted as ReleaseDate >= 2017-01-01`` rather than ``2017-01-01 <= ReleaseDate <= *``, 
+is interpreted as ``ReleaseDate >= 2017-01-01`` rather than ``2017-01-01 <= ReleaseDate <= *``, 
 with * meaning literally star character.
 
 Redrawn zoom icon
