@@ -5,8 +5,8 @@ Added some missing card prices
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 for ~700 cards including all aftermath cards. These cards have no ``mciNumber`` in data from 
-mtgjson.com, but they do have 
-actual pages in http://magiccards.info with urls derived from ``number`` field.
+mtgjson.com, but they do have actual pages in http://magiccards.info with urls derived from 
+``number`` field.
 
 Search input
 ~~~~~~~~~~~~
