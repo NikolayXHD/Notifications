@@ -1,0 +1,30 @@
+2.3.9
+-----
+
+Clipboard operations
+~~~~~~~~~~~~~~~~~~~~
+
+Tuned copy and paste operations to allow moving cards between deck zones using them.
+
+- In ``main deck`` zone copy and paste operations affect ``main deck`` and ``sideboard``
+- In ``sideboard`` zone copy and paste operations affect ``sideboard`` only
+- In ``sample hand`` zone copy and paste operations affect ``sample hand`` only
+
+The same scope applies to ``clear`` button in window title.
+
+Drag-n-drop files and text over tabs
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Deck zone switches when dragging a file or text over it. Previously this only worked when dragging
+a card from Mtgdb.Gui. 
+- The same works with tab headers in window title.
+
+Fixed crash when dropping deck file or text before cards are loaded
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Now loading the decks is delayed until the loading process completes.
+
+Fixed requiring deck name 
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+when loading a deck in XMage format.
