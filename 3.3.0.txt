@@ -26,9 +26,9 @@ Search text migrated from Lucene.Net 3.0.2 to 4.0.8
 Mana symbol icons
 ~~~~~~~~~~~~~~~~~
 
-Added icons for ``{½}`` ``{∞}`` ``{100}`` ``{1000000}``
+for ``{½}`` ``{∞}`` ``{100}`` ``{1000000}``
 
-Added images for new sets
+Card images for new sets
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 - IMA Iconic Masters
