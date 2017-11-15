@@ -27,3 +27,9 @@ Mana symbol icons
 ~~~~~~~~~~~~~~~~~
 
 Added icons for ``{½}`` ``{∞}`` ``{100}`` ``{1000000}``
+
+Added images for new sets
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- IMA Iconic Masters
+- DDT Duel Decks: Merfolk vs. Goblins
