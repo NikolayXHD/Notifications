@@ -1,0 +1,6 @@
+3.0.2
+-----
+
+Fixed printing proxy dialog design flaw.
+
+You wont't need to type some name in order to save the files.
