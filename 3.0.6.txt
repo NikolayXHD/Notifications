@@ -1,0 +1,4 @@
+3.0.6
+-----
+
+Fixed an issue that possibly lead to faling Mtgdb.Gui upgrade to next version
