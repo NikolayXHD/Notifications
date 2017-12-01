@@ -1,0 +1,19 @@
+Fixed a crash preventing automatic update
+-----------------------------------------
+
+Problem
+~~~~~~~
+
+There was a bug preventing all new users who downloaded Mtgdb.Gui.v2.0 or later from doing 
+auto-upgrading to newer versions using ``Update`` window.
+
+Solution
+~~~~~~~~
+
+In order to have the bug fixed Mtgdb.Gui users need to download and manually install 
+Mtgdg.Gui.v3.0.8.0 or later from http://goo.gl/LuC6ce
+
+Acknowlegment
+~~~~~~~~~~~~~
+
+Many thanks to aidscoi168 who provided the bug report with useful details.
