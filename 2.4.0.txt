@@ -1,4 +1,0 @@
-2.4.0
------
-
-Fixed obsolete legalities for Standard format in mtgjson.com data

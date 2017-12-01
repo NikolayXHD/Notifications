@@ -1,4 +1,0 @@
-2.3.2
------
-
-Using Image Magick to scale icons instead of sloppy .NET Framework default implementation.

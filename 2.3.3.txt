@@ -1,5 +1,0 @@
-2.3.3
------
-
-Updated cards database from mtgjson.com
-Added ``Ixalan block`` to legality menu

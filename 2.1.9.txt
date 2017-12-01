@@ -1,5 +1,0 @@
-2.1.9
------
-
-Supported dropping multiple (up to 10) deck files. Second and subsequent decks are opened in new 
-tabs.

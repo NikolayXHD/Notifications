@@ -1,8 +1,0 @@
-2.2.6
------
-
-Compatibility with MTGO (Magic The Gathering Online)
-
-You can save and load decks and collection in plain-text format created by MTGO.
-For details see Mtgdb.Gui help or online wiki at 
-https://github.com/NikolayXHD/Mtgdb/wiki/2.2-Import-collection-&-decks-from-Magic-The-Gathering-Online

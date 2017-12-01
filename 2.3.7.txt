@@ -1,6 +1,0 @@
-2.3.7
------
-
-Updated prices
-
-Fixed minor intellisense bugs
