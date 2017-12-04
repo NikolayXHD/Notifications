@@ -1,7 +1,7 @@
 Fixed a crash preventing automatic update
 -----------------------------------------
 
-To fix automatic update download and manually install (unzip to installation directory) 
+If you experience this problem download and manually install (unzip to installation directory) 
 Mtgdg.Gui.v3.0.8.0 or later from http://goo.gl/LuC6ce
 
 Many thanks to aidscoi168 who provided the bug report with useful details.
