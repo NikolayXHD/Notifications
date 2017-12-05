@@ -1,7 +1,0 @@
-3.0.1
------
-
-Fixed performance issue introduced probably in 3.0.0. I hope it was not there all the time!
-
-With non-field-specific search text e.g. ``angel*`` scrolling search result was extremely slow - many seconds
-per page.
