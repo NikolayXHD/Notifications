@@ -9,3 +9,4 @@ Deck visibility, Textual fields visibility, Partial cards visibility
 
 Split and flip card images are rotated.
 
+Fixed incorrect intellisense for numeric fields such as ``cmc``, ``hand`` or ``life``.
