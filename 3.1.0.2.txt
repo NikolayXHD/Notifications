@@ -1,0 +1,11 @@
+3.1.0.2
+-------
+
+Deck visibility, Textual fields visibility, Partial cards visibility
+- apply to all tabs
+- are undo / redo - able
+- are restored when restarting
+
+Split and flip card images are rotated.
+
+Fixed incorrect intellisense for numeric fields such as ``cmc``, ``hand`` or ``life``
