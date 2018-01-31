@@ -1,0 +1,4 @@
+3.1.0.5
+-------
+
+No need to restart Mtgdb.Gui to see new downloaded images
