@@ -1,0 +1,4 @@
+3.1.0.7
+-------
+
+Fix image variant mapping for UST - Untable set
