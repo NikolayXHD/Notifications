@@ -1,0 +1,5 @@
+3.1.0.8
+-------
+
+A button in window title to hide / show all the filters. Hiding the filters saves some space making 
+User Interface more compact. Useful for small screens.
