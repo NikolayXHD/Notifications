@@ -1,0 +1,7 @@
+3.2.0.0
+-------
+
+Multi-window support
+
+- Added button in window title to open new window
+- You can drag-n-drop *cards* and *tabs* between windows
