@@ -1,0 +1,4 @@
+3.2.1.1
+-------
+
+Now really fixed ``Attack each turn`` keyword
