@@ -1,0 +1,22 @@
+3.3.0.0
+-------
+
+Selectable text in Search result
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+If you want to copy some text into Clipboard, it's no longer necessary to select the text
+from tooltips. Just select the text you want directly in search result.
+
+If you want to select some text that does not fit into field area use ``Ctrl`` + ``A`` to 
+select all text in a hovered field.
+
+When selecting text in small fields hold ``Alt`` to suppress showing ``Sort`` and ``Search`` 
+buttons over text.
+
+Press ``Esc`` or ``click`` on non-text area within search result to remove text selection. Useful if
+you want to ``Ctrl`` + ``C`` your deck into cliboard instead of currently selected text.
+
+Suppressing tooltips when ``Alt`` key is down
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+When using ``Alt`` key to ease selecting text in small fields, it's also nice to get rid of tooltips.
