@@ -1,0 +1,6 @@
+3.3.1.0
+-------
+
+Intellisense suggests both fields and values when there is no field in input
+
+Fixed not loading collection on startup
