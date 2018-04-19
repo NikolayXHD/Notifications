@@ -1,4 +1,0 @@
-3.1.0.1
--------
-
-Fixed not loading undo / redo history, including collection, on program startup since v3.0.9.6

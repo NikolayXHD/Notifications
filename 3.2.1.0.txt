@@ -1,8 +1,0 @@
-3.2.1.0
--------
-
-Preserve window positions betewen restarts
-
-Reduced lag when dragging a *tab* between windows
-
-Fixed ``Attack each turn`` keyword definition to also match ``Attacks each combat`` and etc

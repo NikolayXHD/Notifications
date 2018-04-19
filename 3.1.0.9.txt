@@ -1,4 +1,0 @@
-3.1.0.9
--------
-
-A warning when card count in main + sideboard exceeds maximum 4 or count in collection.
