@@ -1,0 +1,7 @@
+3.5.0.5
+-------
+
+New sets
+
+- DOM - Dominaria
+- DDU - Duel Decks: Elves vs. Inventors

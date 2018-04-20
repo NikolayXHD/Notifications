@@ -1,4 +1,0 @@
-3.5.0.0
--------
-
-Buttons over card image to edit Deck and Collection
