@@ -1,5 +1,4 @@
-To improve download speed image storage for Small and Zoomed images was moved from Mega.nz to 
-Google Drive. 
+Mega.nz images are no longer available so Mtgdb.Gui v3.5.0.5 and earlier can no longer download 
+images.
 
-Mega.nz images are no longer available. so Mtgdb.Gui v3.5.0.5 and earlier can no longer download 
-images. To download images update Mtgdb.Gui to the latest version.
+If you need to download images update Mtgdb.Gui to the latest version.
