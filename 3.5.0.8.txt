@@ -1,0 +1,10 @@
+3.5.0.8
+-------
+
+More accurate keyword patterns e.g. ``Megamorph`` is recognized as a ``Morph`` keyword variant.
+
+Some new keywords e.g. ``Can't be countered``, ``Can't be regenerated``.
+
+More accurate undo / redo behavior in Search text input.
+
+In search text input ``Alt`` + ``Down`` / ``Up`` cycles field value in alphabetical order without opening intellisense menu.
