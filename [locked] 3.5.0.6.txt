@@ -1,4 +1,0 @@
-Mega.nz images are no longer available so Mtgdb.Gui v3.5.0.5 and earlier can no longer download 
-images.
-
-If you need to download images update Mtgdb.Gui to the latest version.
