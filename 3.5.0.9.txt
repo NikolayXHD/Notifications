@@ -1,0 +1,4 @@
+3.5.0.9
+-------
+
+Fix missing legality for DOM - Dominaria set
