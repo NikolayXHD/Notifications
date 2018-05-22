@@ -1,0 +1,31 @@
+3.6.0.0
+-------
+
+Complex phrase query
+~~~~~~~~~~~~~~~~~~~~
+
+Subqueries can now be used inside phrase query: ``text: "/counters?/ (on OR from) it"``
+
+- First word is specified by a regular expression subquery ``/counters?/``.
+- Second word is specified by a boolean subquery ``on OR from``.
+- Third word ``it`` is specified simply as in a regular phrase query.
+
+Use modifier to allow non-zero words count between the words in phrase query: ``text: "counter target spell"~3``.
+
+Use fractional modifier (new feature) to allow reverse order of words: ``text: "dealt damage"~2.5``
+
+Filter buttons
+~~~~~~~~~~~~~~
+
+Left and bottom rows of icons are hidden in default state. Value icon in these rows is shown when selected or hovered.
+
+Added buttons group to filter by *layout* field.
+
+Added more *keyword ability* buttons.
+
+Keyword ability buttons were split in 2 groups. New group is for *cast related* abilities such as ``Cascade`` or ``Improvise``.
+
+Tooltip on Text field
+~~~~~~~~~~~~~~~~~~~~~
+
+*Text* field tooltip also shows ``Keywords`` and ``Layout`` values.
