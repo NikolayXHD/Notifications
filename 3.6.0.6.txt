@@ -1,5 +1,0 @@
-3.6.0.6
--------
-
-Fixed application crash when search text contains a phrase without specifying a field e. g.
-``"exile target creature"``

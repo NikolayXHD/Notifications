@@ -1,4 +1,0 @@
-3.7.0.4
--------
-
-Legality field in deck list

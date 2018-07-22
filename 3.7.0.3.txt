@@ -1,4 +1,0 @@
-3.7.0.3
--------
-
-Fix not working paste into deck list search input
