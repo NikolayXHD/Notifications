@@ -1,0 +1,7 @@
+3.7.0.6
+-------
+
+More relevant values of Deck fields in Deck List. Fields are calculated against transformed decks 
+where cards are replaced by variants from player's collection and/or with known price.
+
+Enabled sort and filter by Deck fields such as `CollectedCountPercent`, `CollectedPricePercent` and so on.
