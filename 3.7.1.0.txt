@@ -1,0 +1,4 @@
+3.7.1.0
+-------
+
+Fix a bug preventing adding to deck any card with empty text
