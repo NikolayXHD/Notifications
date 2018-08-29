@@ -1,0 +1,4 @@
+3.7.1.2
+-------
+Bugfix: diagram was not showing cards added to deck until something
+causes re-applying the filters.
