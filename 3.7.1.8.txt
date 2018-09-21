@@ -1,0 +1,7 @@
+3.7.1.8
+-------
+Fixed missing image for card UNH Richard Garfield, Ph.D
+
+Updated card prices
+
+Fixed not working price downloading
