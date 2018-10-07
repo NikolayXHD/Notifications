@@ -1,0 +1,9 @@
+3.7.2.1
+-------
+New set GRN Guilds of Ravnica
+
+New keywords ``Historic``, ``Jump-start``, ``Mentor``, ``Manifest``, ``Surveil``, ``Undergrowth``
+
+New format ``Brawl``
+
+Minor bug fixes
