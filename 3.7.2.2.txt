@@ -1,0 +1,4 @@
+3.7.2.2
+-------
+When drag-n-drop directory with deck files to Mtgdb.Gui, search deck files in nested
+directories too.
