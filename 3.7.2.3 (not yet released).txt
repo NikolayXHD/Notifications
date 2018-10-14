@@ -1,0 +1,5 @@
+3.7.2.3 (not yet released)
+--------------------------
+Import collection from Magic The Gathering Arena
+
+Enable search card by Number (in set) from Search bar
