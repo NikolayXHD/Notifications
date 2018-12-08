@@ -1,0 +1,7 @@
+3.7.2.4
+-------
+More precise image matching for old sets ``ME4``, ``pARL``, ``S00`` and others
+
+Added ``explore`` keyword ability
+
+Fix a bug in search bar when pasting text from clipboard
