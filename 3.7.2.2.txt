@@ -1,8 +1,0 @@
-3.7.2.2
--------
-When drag-n-drop directory with deck files to Mtgdb.Gui, search deck files in nested
-directories too.
-
-Fix not working rename on current deck in Deck List
-
-Fix delete from Deck List

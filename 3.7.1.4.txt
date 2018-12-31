@@ -1,3 +1,0 @@
-3.7.1.4
--------
-Fix high DPI issues in deck list

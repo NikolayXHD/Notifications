@@ -1,9 +1,0 @@
-3.7.0.2
--------
-
-Mass import decks to ``deck list``
-
-- by selecting multiple files in ``Load deck(s) from file(s)`` dialog
-- by drag-n-dropping multiple files into application window
-
-Open deck from ``deck list`` in new tab by ``Middle``-click ``open`` button

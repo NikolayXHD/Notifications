@@ -1,3 +1,0 @@
-3.7.1.1
--------
-Click on deck zone tab opens closed deck panel

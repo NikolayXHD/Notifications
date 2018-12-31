@@ -1,4 +1,0 @@
-3.7.0.8
--------
-
-Fixed a bug leading to constantly using 1 CPU core when application is doing nothing.

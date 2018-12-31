@@ -1,6 +1,0 @@
-3.7.0.9
--------
-
-New set C18 - Commander 2018
-
-Fixed a bug in deck editor

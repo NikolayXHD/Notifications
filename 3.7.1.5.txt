@@ -1,5 +1,0 @@
-3.7.1.5
--------
-Improved local help navigation menu to match online wiki
-
-Support & feedback button in window title
