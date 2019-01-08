@@ -1,0 +1,5 @@
+4.0.0.0
+-------
+Set images for GK1, UMA, PUMA, RNA, PRNA sets
+
+Mtgdb.Gui updates from Google Drive instead of Mega.nz to achieve better speed
