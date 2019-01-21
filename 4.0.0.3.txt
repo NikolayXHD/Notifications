@@ -1,0 +1,12 @@
+4.0.0.3
+-------
+Used standard tooltips in filter buttons to avoid vertical tooltip text in vertical 
+button groups.
+
+mtgjson.com data file from 2019-01-12 with new sets
+
+- RNA Ravnica Allegiance
+- PRW2 RNA Ravnica Weekend
+- PRNA Ravnica Allegiance Promos
+
+Restored import collection from MTG Arena
