@@ -1,0 +1,47 @@
+4.0.0.8
+-------
+
+Possibility to restore previous collection after MTGArena collection was imported without having
+to create and load collection backup file.
+
+New deck zone Maybeboard to keep cards close to your deck without polluting sideboard
+
+Support plaintext deck format where the count is followed by x like ``4x Plains``
+
+Added Filter button for Saga layout
+
+Search bar
+~~~~~~~~~~
+
+Use AND as default search bar logical operator. Now the query ``shivan dragon`` is interpreted as 
+``shivan AND dragon``
+
+Supported Scryfall -like field name aliases in Search bar ::
+
+    e: SetCode
+    t: Type
+    m: ManaCost
+    o: TextEn
+  pow: PowerNum
+  tou: ToughnessNum
+  loy: LoyaltyNum
+    f: LegalIn
+    c: Color
+    a: Artist
+   ft: FlavorEn
+
+User interface
+~~~~~~~~~~~~~~
+Filter panels can be shown or hidden separately
+
+- Top bar with Filter buttons by Keyword abilities
+- Right bar with other Filter buttons
+- Search bar & Legality filter
+
+Buttons which open menu are visually marked to make them different from regular buttons.
+
+Better looking, scalable & color-scheme -able checkboxes and dropdowns.
+
+Buttons can be activated by keyboard by ``Enter`` or ``Space`` after focusing them.
+
+Revised the order in which controls are cycled by ``Tab``, ``Shift`` + ``Tab``.
