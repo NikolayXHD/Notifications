@@ -1,0 +1,4 @@
+4.0.1.4
+-------
+Fixed broken deck list re-indexing.
+Before the fix, search by decks would only show decks added long ago, before the bug was introduced.
