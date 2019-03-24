@@ -1,0 +1,5 @@
+4.0.1.7
+-------
+Fix not showing sample hand buttons ``new hand``, ``mulligan``, ``draw``.
+
+Fix corner-case bug related to deck list.
