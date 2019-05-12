@@ -1,3 +1,0 @@
-4.0.1.2
--------
-Updated cards from mtgjson.com

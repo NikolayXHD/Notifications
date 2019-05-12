@@ -1,4 +1,0 @@
-4.0.1.5
--------
-Fix startup crash after search result was sorted.
-

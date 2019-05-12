@@ -1,3 +1,0 @@
-4.0.1.8
--------
-Card images for WAR, PWAR, MH1 sets
