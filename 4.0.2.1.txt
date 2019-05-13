@@ -1,0 +1,4 @@
+4.0.2.1
+-------
+Fix unusable distorted buttons when Classic Windows theme selected in  ``Control Panel\All Control 
+Panel Items\Personalization``
