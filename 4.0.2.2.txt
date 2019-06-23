@@ -1,0 +1,5 @@
+4.0.2.2
+-------
+Add cards and images for MH1 Modern Horizons set
+
+Add keywords ``Fateful hour``, ``Hellbent``, ``Monstrosity``, ``Morbid``, ``Proliferate``, ``Threshold``
