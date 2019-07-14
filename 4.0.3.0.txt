@@ -1,0 +1,8 @@
+4.0.3.0
+-------
+Count in deck / collection can be set using keyboard. To do it, click count label in the bottom of 
+card image.
+
+- ``Left click``: set count in deck
+- ``Alt`` + ``Left click``: set count in collection
+- When editing, ``Tab`` / ``Shift`` + ``Tab``: switch input to next / previous card
