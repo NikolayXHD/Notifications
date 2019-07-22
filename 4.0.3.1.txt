@@ -1,0 +1,21 @@
+4.0.3.1
+-------
+- Insert the card dragged into deck at the position of mouse cursor instead of adding it to the end of deck
+- Prevent accidental deck zone switching while adding / removing card from deck by drag-n-drop
+
+Problem
+~~~~~~~
+Card can be added / removed from deck by dragging it from search result to deck panel or vice versa.
+
+You can also drag-n-drop the cards between different deck zones by pointing mouse cursor to the tab
+header of target deck zone.
+
+Drag-n-drop between deck zones gets in the way of adding / removing with drag-n-drop because deck zone tab 
+headers are between deck and search result. When dragging the card to deck or away from deck the mouse often
+touches the tab header of another deck zone and thus produces unwanted deck zone switching.
+
+Solution
+~~~~~~~~
+- When dragging from search result to deck, deck zone is never changed
+- When dropping card from deck to search result (to remove the card) the deck zone from which the card
+  was removed is selected again if you changed the zone while dragging.
