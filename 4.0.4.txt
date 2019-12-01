@@ -1,0 +1,8 @@
+4.0.4
+-----
+Show card legality in Pioneer format
+
+Card prices can be downloaded separately
+
+Auto-applying search bar 1 second after user stops typing can be turned on / off in Advanced settings menu
+
