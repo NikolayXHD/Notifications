@@ -1,0 +1,5 @@
+4.0.4.1
+-------
+Show card number
+
+Card has only 1 ``Price`` field instead of ``PricingMid``, ``PricingLow``, ``PricingHigh``
