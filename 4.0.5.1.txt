@@ -1,0 +1,13 @@
+4.0.5.1
+-------
+Do not treat +/- as word separators, to enable Search bar queries:
+
+- any power / toughness buff
+```
+text: \+?*\/\+?*
+```
+
+- power / toughness buff of at least +3/+2
+```
+text: /\+[3-9]\/\+[2-9]/
+```
