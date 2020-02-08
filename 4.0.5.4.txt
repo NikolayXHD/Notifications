@@ -1,8 +1,0 @@
-4.0.5.4
--------
-Fix searching by complex phrase query with boolean clauses of different length. Consider query:
-```
-text: "under (your OR its owner's) control"
-```
-Notice that ``your`` and ``its owner's`` are word sequences of different length, 1 and 2 (actually 4) correspondingly.
-Previously, in such cases the query would not match correctly.

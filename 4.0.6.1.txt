@@ -1,0 +1,16 @@
+4.0.6.1
+-------
+Fix non working zoom on token
+
+!!!ATTENTION!!! Automatic update in 4.0.6.0 is broken.
+
+- Download 4.0.6.1 from https://py3j9.app.goo.gl/dl
+- Extract .zip
+- Copy all extracted content
+```
+\bin\
+\charts\
+...
+\Mtgdb.Gui.lnk
+```
+over existing installation. Sorry for inconvenience.
