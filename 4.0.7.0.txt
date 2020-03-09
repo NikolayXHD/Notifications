@@ -1,0 +1,7 @@
+4.0.7.0
+-------
+New sets 
+
+- THB - Theros Beyond Death
+- PTHB
+- UND - Unsanctioned
