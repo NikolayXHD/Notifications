@@ -1,0 +1,9 @@
+4.0.7.1
+-------
+New sets
+
+- C20 - Commander 2020
+- IKO - Ikoria: Lair of Behemoths
+- HA2 - Historic Anthology 2
+- SLU - Secret Lair: Ultimate Edition
+- SS3 - Signature Spellbook: Chandra
