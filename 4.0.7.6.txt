@@ -1,0 +1,24 @@
+4.0.7.6
+-------
+
+Added possibility to add massive amounts of cards to collection with few clicks using Mtgdb.Gui 
+filters and clipboard. This can be helpful if you purchased all (or most) cards from  a set.
+
+1. Filter to the set using Search bar query like ``SetCode: ISD``.
+
+2. Narrow down the search result to the cards you want to add N copies each.
+
+   Get the card names that need to be excluded to the Search bar by clicking on Search button over 
+   card name. The query becomes ``SetCode: ISD NameEn: "some name"``.
+  
+   You will need this  either because you need these cards or because the number of copies for this 
+   card is not the same as the ones you adding now.
+
+   Edit the query to exclude the card, add `AND NOT` operator, so the query becomes 
+   ``SetCode: ISD AND NOT NameEn: "card name"``.
+
+3. ``Copy search result to clipboard`` (``Ctrl`` + ``Alt`` + ``C``) - 1 copy of each card in search result is 
+   added to clipboard.
+4. ``Add to collection from Clipboard`` (``Alt`` + ``V``) N times where N is the number of copies of each 
+   card you want to add.
+5. Repeat steps 2. - 4. for all values of N.
