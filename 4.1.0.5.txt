@@ -1,6 +1,0 @@
-4.1.0.5
--------
-Use smaller price file instead of 500MB one from mtgjson to speedup price loading.
-Prices can still be upgraded from Mtgjson.
-
-Fix several card data issues leftover since migration to Mtgjson v5 schemas
