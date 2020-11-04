@@ -1,0 +1,10 @@
+4.1.0.6
+-------
+Mtgdb.Gui currently cannot open the latest Mtgjson.com file.
+
+Ironpotato took the challenge, figured it out and provided a patched version of the file.
+https://www.slightlymagic.net/forum/viewtopic.php?f=62&p=245908#p245883
+
+v4.1.0.6 is packaged with the patched file.
+
+Thank you Ironpotato!
