@@ -1,0 +1,4 @@
+4.1.0.7
+-------
+Fix inorrect numbers in deck list, reported by Heris.
+https://www.slightlymagic.net/forum/viewtopic.php?f=62&t=19299&start=525#p246251
