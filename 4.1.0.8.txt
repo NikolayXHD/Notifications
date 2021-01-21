@@ -1,0 +1,5 @@
+4.1.0.8
+-------
+Fix loading most recent mtgjson.com data file, reported by aidscoi168.
+
+https://www.slightlymagic.net/forum/viewtopic.php?f=62&t=19299&start=540#p246944
