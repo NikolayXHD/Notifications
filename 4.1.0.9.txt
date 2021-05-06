@@ -1,0 +1,8 @@
+4.1.0.9
+-------
+Support .csv collection format from TCGPlayer mobile app.
+
+Contributed by @AaronLS, thank you Aaron! This unlocks the possibility to use phone camera 
+to input collection.
+
+https://github.com/NikolayXHD/Mtgdb/wiki/2.1.5-Import-collection-using-phone-camera
