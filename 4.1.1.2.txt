@@ -1,0 +1,4 @@
+4.1.1.2
+-------
+Fix application crashing due to duplicate IDs in mtgjson.com data
+Thanks to robertmarkbram for reporting the issue.
